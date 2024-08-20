@@ -18,6 +18,12 @@ Moreover, Spacetime Simulator encourages a step-by-step learning process by aski
 [Space](https://github.com/sourceduty/Space)
 <br>
 [Math](https://github.com/sourceduty/Math)
+<br>
+[Quantum](https://github.com/sourceduty/Quantum)
+<br>
+[Space Maintenance](https://github.com/sourceduty/Space_Maintenance)
+<br>
+[Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
